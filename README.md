@@ -5,6 +5,7 @@ Nada para ver por enquanto ;)
 ## TODO
 
 - hierarquia de arquivos
+```
 AstroWatch/ (esse repositório)
 ├── README.md
 ├── source/ (código fonte)
@@ -16,5 +17,5 @@ AstroWatch/ (esse repositório)
 ├── icons/ (icones da interface)
 ├── utils/ (materiais auxiliares de desenvolvimento)
 ├── uml/ (diagramas uml)
-
+```
 - kanban do projeto
