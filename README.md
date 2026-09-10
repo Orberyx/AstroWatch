@@ -22,6 +22,7 @@ AstroWatch/ (esse repositório)
 
 ## Responsabilidades (esborço)
 
+```
 src/main/java/io/github/orberyx/astrowatch/
 │
 ├── App.java                          Todos (ressalvas)
@@ -48,3 +49,4 @@ src/main/java/io/github/orberyx/astrowatch/
 │
 └── controller/
     └── AsteroidController.java       Nívea
+```
