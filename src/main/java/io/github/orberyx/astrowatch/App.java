@@ -12,12 +12,6 @@ import java.util.Locale;
 
 public class App {
     public static void main(String[] args) {
-        Date userTime = new Date();
-        Locale userLang = Locale.getDefault();
-        
-        System.out.println("informações do Sistema:");
-        
-        System.out.println("Hora: " + userTime.toGMTString());
-        System.out.println("Idioma: " + userLang);
+        System.out.println("Hello World!");
     }
 }

@@ -19,3 +19,32 @@ AstroWatch/ (esse repositório)
 ├── uml/ (diagramas uml)
 ```
 - kanban do projeto
+
+## Responsabilidades (esborço)
+
+src/main/java/io/github/orberyx/astrowatch/
+│
+├── App.java                          Todos (ressalvas)
+│
+├── model/
+│   └── Asteroid.java                 Renan
+│
+├── nasa/
+│   ├── NasaApiClient.java            Wendel
+│   └── NasaAsteroidParser.java       Wendel
+│
+├── service/
+│   └── AsteroidService.java          Wendel
+│
+├── filter/
+│   └── AsteroidFilter.java           Adriel
+│
+├── repository/
+│   ├── AsteroidRepository.java       Renan
+│   └── UserRepository.java           Renan
+│
+├── auth/
+│   └── AuthService.java              Mayrllon
+│
+└── controller/
+    └── AsteroidController.java       Nívea
