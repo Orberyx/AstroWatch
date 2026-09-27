@@ -1,61 +1,20 @@
-# Markdown Cheat Sheet (Example File)
+### Material de Ensino (por pessoa)
 
-This is a **generic Markdown template** showcasing essential formatting features.
+#### Adriel
 
----
+#### Mayrllon
 
-## 1. Headers
-# H1 (Largest)
-## H2
-### H3
-#### H4
-##### H5
-###### H6 (Smallest)
+#### Nívea
 
----
+#### Wendel
+[Curso de Java do Gustavo Guanabara](https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+[O QUE É UMA API?](https://www.youtube.com/watch?v=1QZR5De4f9E)
+[O QUE É UMA API? | ENTENDA DE FORMA SIMPLES](https://www.youtube.com/watch?v=COc7xniZPJk)
+[O QUE É JSON? | Conceito e Prática](https://www.youtube.com/watch?v=X6xHm016WTg)
+[ENTENDA PROGRAMAÇÃO ORIENTADA A OBJETOS!](https://youtube.com/playlist?list=PLK_SnY7SMXG64RDi_4QFAeyaTgwxPBo5Q&si=AN71Hkvtu_t-KNdq)
+[Como usar o HttpClient nativo do Java.](https://www.youtube.com/watch?v=fTvDNcvZH7c)
+[Java Convert String to double](https://www.digitalocean.com/community/tutorials/java-convert-string-to-double)
+[Convert Epoch Time to LocalDate and LocalDateTime](https://www.baeldung.com/java-convert-epoch-localdate)
+[Convert JSON to POJO Objects in Java Online](https://json2csharp.com/code-converters/json-to-pojo)
+[Conhecendo a interface Map do Java](https://www.devmedia.com.br/conhecendo-a-interface-map-do-java/37463)
 
-## 2. Text Formatting
-- **Bold** (`**text**` or `__text__`)
-- *Italic* (`*text*` or `_text_`)
-- ~~Strikethrough~~ (`~~text~~`)
-- `Inline Code` (`` `code` ``)
-- > Blockquote (prefix with `>`)
-
----
-
-## 3. Lists
-### Unordered List
-- Item 1
-- Item 2
-  - Nested Item (indent with 2 spaces)
-
-### Ordered List
-1. First item
-2. Second item
-   1. Nested item (indent with 3 spaces)
-
-### Task List
-- [x] Completed task
-- [ ] Pending task (`[ ]`)
-
----
-
-## 4. Links
-- [Hyperlink](https://example.com) (`[text](url)`)
-
----
-
-## 5. Code Blocks
-```java
-# Syntax-highlighted block (java)
-class HelloWorld {
-    public static main(String... args) {
-        System.out.println("Hello markdown");
-    }
-}
-
-## TODO
-- Organizar isso
-
-### Links
-Curso de Java do Gustavo Guanabara
