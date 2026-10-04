@@ -10,3 +10,8 @@ Materiais em vídeo utilizados pela equipe como apoio durante o desenvolvimento 
 - [O QUE É JSON? | Conceito e Prática](https://www.youtube.com/watch?v=X6xHm016WTg)
 - [Programação Orientada a Objetos](https://youtube.com/playlist?list=PLK_SnY7SMXG64RDi_4QFAeyaTgwxPBo5Q&si=AN71Hkvtu_t-KNdq)
 - [Como usar o HttpClient nativo do Java](https://www.youtube.com/watch?v=fTvDNcvZH7c)
+
+## Renan
+
+- [JDBC - Aprenda a fazer conexão com banco de dados utilizando o JAVA](https://youtu.be/3SrqZUB_pE4?si=VIokDv-qtqrrMgKR)
+- [preparedStatement (JDBC INSERT) - Java Tutorials For Beginners 37](https://www.youtube.com/watch?v=8l5240zGp9s)
