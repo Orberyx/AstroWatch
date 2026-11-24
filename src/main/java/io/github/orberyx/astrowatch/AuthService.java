@@ -2,7 +2,7 @@ package io.github.orberyx.astrowatch.auth;
 
 import io.github.orberyx.astrowatch.dao.UsuarioDAO;
 import io.github.orberyx.astrowatch.model.Usuario;
-import io.github.orberyx.astrowatch.session.Sessao;
+import io.github.orberyx.astrowatch.Sessao;
 
 public class AuthService {
 

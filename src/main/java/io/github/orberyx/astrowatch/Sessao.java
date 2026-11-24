@@ -1,4 +1,4 @@
-package io.github.orberyx.astrowatch.session;
+package io.github.orberyx.astrowatch;
 
 import io.github.orberyx.astrowatch.model.Usuario;
 
